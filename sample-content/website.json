@@ -1,255 +1,15 @@
 {
   "@metadata": {
     "name": "website",
-    "uuid": "5dbe6352-4f63-49f5-b5a0-cef38321d280",
+    "uuid": "97186806-e5cf-40fb-949b-72491e66579c",
     "path": "/website"
   },
-  "@content": {
-    "name": "website"
-  },
+  "@content": {},
   "@nodes": [
     {
       "@metadata": {
-        "name": "franklin",
-	    "path": "/franklin"
-      },
-      "@content": {
-        "main": {
-          "mgnl:type": "mgnl:area",
-          "components": [
-            {
-              "text": null,
-              "image": "saas:d8057eba-a6fa-473f-885f-055b0fd75784",
-              "title": null,
-              "section": {
-                "mgnl:type": "mgnl:area",
-                "components": [
-                  {
-                    "text": "<p>The Franklin Clockworks appeal lies in its fusion of past and future, where Victorian-era elegance meets mechanical innovation. The intricate gears, cogs, and brass accents transport us to a bygone era, evoking a sense of nostalgia and craftsmanship.</p>\n\n<p>The juxtaposition of retro styling with futuristic elements creates a visually striking and thought-provoking experience.</p>\n\n<p>&nbsp;</p>\n",
-                    "image": "saas:2177025c-170c-472f-9c13-bf09c17b0709",
-                    "title": "Relic",
-                    "webLink": null,
-                    "ctaTitle": null,
-                    "pageLink": null,
-                    "supTitle": null,
-                    "imageLeft": false,
-                    "mgnl:type": "mgnl:component",
-                    "mgnl:template": "saas-demo:components/TextImage"
-                  },
-                  {
-                    "text": "<p>The past is here.</p>\n\n<p>Like no other.</p>\n",
-                    "image": "saas:7cb53af8-c431-4cb0-86ff-77f8d2d41e47",
-                    "title": "Introducing Boilerroom",
-                    "webLink": null,
-                    "ctaTitle": "Experience it now",
-                    "pageLink": "ee74d9e8-5f9b-42f9-aa5a-bc866febd0a6",
-                    "supTitle": null,
-                    "imageLeft": false,
-                    "mgnl:type": "mgnl:component",
-                    "mgnl:template": "saas-demo:components/TextImage"
-                  }
-                ]
-              },
-              "gradient": true,
-              "supTitle": "Vintage Aesthetics, Futuristic Precision.",
-              "fullWidth": false,
-              "mgnl:type": "mgnl:component",
-              "mgnl:template": "saas-demo:components/Section"
-            },
-            {
-              "text": null,
-              "image": null,
-              "title": "Other Franklin Timepieces",
-              "section": {
-                "mgnl:type": "mgnl:area",
-                "components": [
-                  {
-                    "title": null,
-                    "mgnl:type": "mgnl:component",
-                    "watchLink": "c358ca8a-9972-4636-8282-6f0a14751e93",
-                    "mgnl:template": "saas-demo:components/Watch",
-                    "transparentBg": false
-                  },
-                  {
-                    "text": "",
-                    "image": "saas:01912d8a-fd5a-4e52-99d1-7740f8c8e940",
-                    "title": "Brassheart Detail",
-                    "supTitle": null,
-                    "mgnl:type": "mgnl:component",
-                    "mgnl:template": "saas-demo:components/Card",
-                    "transparentBg": false
-                  },
-                  {
-                    "title": null,
-                    "mgnl:type": "mgnl:component",
-                    "watchLink": "a8890c42-634e-4805-80a0-4fa95dc95aaa",
-                    "mgnl:template": "saas-demo:components/Watch",
-                    "transparentBg": false
-                  }
-                ]
-              },
-              "gradient": true,
-              "supTitle": null,
-              "fullWidth": false,
-              "mgnl:type": "mgnl:component",
-              "mgnl:template": "saas-demo:components/Section"
-            }
-          ]
-        },
-        "name": "franklin",
-        "title": "Franklin Clockworks",
-        "header": {
-          "logo": "saas:26344c3b-636b-4f7c-a6c7-cc3749c0056e",
-          "image": "saas:695f57c6-f898-42eb-8faa-d472e19ecd5f",
-          "pageLink": "3ed1b044-cb88-4b46-a97a-8abe936e779c",
-          "mgnl:type": "mgnl:area",
-          "components": [
-            {
-              "label": "About Franklin",
-              "pageLink": "baab9b1b-300a-420b-abbb-021bddd21096",
-              "mgnl:type": "mgnl:component",
-              "mgnl:template": "saas-demo:components/Link"
-            }
-          ]
-        },
-        "mgnl:type": "mgnl:page",
-        "mgnl:template": "saas-demo:pages/Home"
-      },
-      "@nodes": [
-        {
-          "@metadata": {
-            "name": "about",
-            "path": "/franklin/about"
-          },
-          "@content": {
-            "main": {
-              "mgnl:type": "mgnl:area",
-              "components": [
-                {
-                  "text": "Creating unique timepieces is our passion. Our purpose also expresses this. Together with our vision and values, it guides our actions – today and in the future.",
-                  "image": null,
-                  "title": "Timeless",
-                  "section": {
-                    "mgnl:type": "mgnl:area",
-                    "components": [
-                      {
-                        "text": "<p style=\"margin-left:0; margin-right:0\">We&#39;ve always been committed to taking responsibility for the long term, and it&#39;s something we&#39;re truly proud of. Our purpose reflects this dedication. It embodies our deep passion for crafting exquisite timepieces and specialty items that honor both nature and people.</p>\n\n<p style=\"margin-left:0; margin-right:0\">This purpose serves as a compass, guiding our every action and shaping the way we grow our business, nurture our brands, and curate our collection with unwavering integrity. By doing so, we not only create value for everyone involved but also ensure that our unique watches will continue to captivate future generations.</p>\n",
-                        "image": "saas:be9f59a7-e805-4b7b-96b0-134b0ff2ec37",
-                        "title": "Our purpose",
-                        "ctaTitle": null,
-                        "pageLink": null,
-                        "supTitle": null,
-                        "imageLeft": false,
-                        "mgnl:type": "mgnl:component",
-                        "mgnl:template": "saas-demo:components/TextImage"
-                      },
-                      {
-                        "text": "<p>Our watches reflect the spirit of adventure and exploration. Inspired by the boundless beauty of the ocean, our designs evoke a sense of sophistication and luxury. The fluid lines, exquisite dials, and meticulously chosen elements blend seamlessly to create timepieces that are as aesthetically pleasing as they are functional.</p>\n",
-                        "image": null,
-                        "title": "Our unique culture",
-                        "ctaTitle": null,
-                        "pageLink": null,
-                        "supTitle": null,
-                        "imageLeft": false,
-                        "mgnl:type": "mgnl:component",
-                        "mgnl:template": "saas-demo:components/TextImage"
-                      },
-                      {
-                        "text": "<p>Our vision at Magnetic is to revolutionize timekeeping with unparalleled and distinctive watches, captivating the world with our innovative designs and unparalleled craftsmanship. We strive to be the epitome of uniqueness, redefining what it means to wear a watch that reflects individuality and style.</p>\n",
-                        "image": "saas:f0bc4bab-9704-4e37-8708-9f0e481fcfa6",
-                        "title": "Our vision",
-                        "ctaTitle": null,
-                        "pageLink": null,
-                        "supTitle": null,
-                        "imageLeft": true,
-                        "mgnl:type": "mgnl:component",
-                        "mgnl:template": "saas-demo:components/TextImage"
-                      },
-                      {
-                        "text": "<p>In 2014 Vanessa Kosters&nbsp; and Dietmar Schreiner met at the Baselworld watch tradefair and conference in Basel. At the time, each of them was having some success with their small boutique businesses, Rethink and Brassheart, but were struggling to manage the marketing and distribution aspects.</p>\n\n<p>The two hit it off and the kernel of an idea was formed. Could a group of small but promising watch companies join forces to challenge the entrenched leaders?</p>\n\n<p>In 2016 they founded the Magnetic Group. The group now comprises 9 unique brands.</p>\n",
-                        "image": null,
-                        "title": "The Magnetic Group",
-                        "supTitle": "Our story",
-                        "mgnl:type": "mgnl:component",
-                        "mgnl:template": "saas-demo:components/Card",
-                        "transparentBg": false
-                      }
-                    ]
-                  },
-                  "gradient": true,
-                  "supTitle": null,
-                  "fullWidth": false,
-                  "mgnl:type": "mgnl:component",
-                  "mgnl:template": "saas-demo:components/Section"
-                }
-              ]
-            },
-            "name": "about",
-            "title": "About Franklin Clockworks",
-            "mgnl:type": "mgnl:page",
-            "description": "",
-            "mgnl:template": "saas-demo:pages/Basic"
-          },
-          "@nodes": []
-        },
-        {
-          "@metadata": {
-            "name": "Introducing-Boilerroom",
-            "path": "/franklin/Introducing-Boilerroom"
-          },
-          "@content": {
-            "main": {
-              "mgnl:type": "mgnl:area",
-              "components": [
-                {
-                  "text": null,
-                  "image": null,
-                  "title": "Real time. Real steam.",
-                  "section": {
-                    "mgnl:type": "mgnl:area",
-                    "components": [
-                      {
-                        "title": null,
-                        "mgnl:type": "mgnl:component",
-                        "watchLink": "fd7212cb-6756-4144-a840-7f697be2e4e5",
-                        "mgnl:template": "saas-demo:components/Watch",
-                        "transparentBg": false
-                      },
-                      {
-                        "text": "<p>Introducing the revolutionary &quot;Boilerroom&quot;.</p>\n\n<p>Inspired by the industrial age and powered by cutting-edge technology, this extraordinary watch defies the conventional norms of timekeeping. Embodying an innovative fusion of artistry and engineering, the BoilerRoom features a mesmerizing display that tells the hour with steam.</p>\n\n<p>Within its sleek, steampunk-inspired design lies a miniature boiler system that produces precisely calibrated puffs of steam to indicate the current hour. As the steam swirls and dissipates, the elegantly etched numerals emerge.</p>\n\n<p>The BoilerRoom watch not only embodies a symbol of sophistication but also pays homage to the age-old traditions of craftsmanship and ingenuity. With this exceptional timepiece adorning your wrist, you&#39;ll embrace a new era of horology that blends the allure of the past with the innovation of the future.</p>\n\n<p>Welcome to the avant-garde world of the Boilerroom watch, where timekeeping meets artistic expression like never before.</p>\n",
-                        "image": null,
-                        "title": null,
-                        "webLink": null,
-                        "ctaTitle": null,
-                        "pageLink": null,
-                        "supTitle": null,
-                        "imageLeft": false,
-                        "mgnl:type": "mgnl:component",
-                        "mgnl:template": "saas-demo:components/TextImage"
-                      }
-                    ]
-                  },
-                  "gradient": true,
-                  "supTitle": "The first timepiece to tell the time with steam.",
-                  "fullWidth": false,
-                  "mgnl:type": "mgnl:component",
-                  "mgnl:template": "saas-demo:components/Section"
-                }
-              ]
-            },
-            "name": "Introducing Boilerroom",
-            "title": "Introducing Boilerroom",
-            "mgnl:type": "mgnl:page",
-            "description": "<p>The newest addition to the Franklin Clockworks line.</p>\n",
-            "mgnl:template": "saas-demo:pages/Basic"
-          },
-          "@nodes": []
-        }
-      ]
-    },
-    {
-      "@metadata": {
         "name": "magnetic",
+        "uuid": "e09b3734-8cd2-4eef-b3dd-e40139a6413d",
         "path": null
       },
       "@content": {
@@ -410,6 +170,7 @@
         {
           "@metadata": {
             "name": "about",
+            "uuid": "3ed1b044-cb88-4b46-a97a-8abe936e779c",
             "path": null
           },
           "@content": {
@@ -485,7 +246,168 @@
         },
         {
           "@metadata": {
+            "name": "partner",
+            "uuid": "2da378a1-74b0-4c7a-874f-ae41310c8389",
+            "path": null
+          },
+          "@content": {
+            "main": {
+              "mgnl:type": "mgnl:area",
+              "components": [
+                {
+                  "text": "Tell us something about you and what you're looking for.",
+                  "image": "saas:808d462f-23f6-404d-ac6a-5464d69f3af1",
+                  "title": "Become our partner",
+                  "section": {
+                    "mgnl:type": "mgnl:area",
+                    "components": [
+                      {
+                        "title": "Apply to become a Retail Partner",
+                        "mgnl:type": "mgnl:component",
+                        "buttonText": "Apply",
+                        "mgnl:template": "saas-demo:components/ContactForm"
+                      },
+                      {
+                        "title": "Interested in joining the group?",
+                        "mgnl:type": "mgnl:component",
+                        "buttonText": "Tell me about joining",
+                        "mgnl:template": "saas-demo:components/ContactForm"
+                      }
+                    ]
+                  },
+                  "gradient": true,
+                  "supTitle": "Be part of the fam",
+                  "fullWidth": false,
+                  "mgnl:type": "mgnl:component",
+                  "mgnl:template": "saas-demo:components/Section"
+                }
+              ]
+            },
+            "name": "partner",
+            "title": "Partner",
+            "mgnl:type": "mgnl:page",
+            "description": "",
+            "mgnl:template": "saas-demo:pages/Basic"
+          },
+          "@nodes": []
+        },
+        {
+          "@metadata": {
+            "name": "sustainability",
+            "uuid": "a39993cd-1c3f-44ac-9dd2-042f2238a9b3",
+            "path": null
+          },
+          "@content": {
+            "main": {
+              "mgnl:type": "mgnl:area",
+              "components": [
+                {
+                  "text": "Unique watches cannot mean fast fashion. Magnetic Group is fully dedicated to sustainable practices across the environment and society as a whole. A foundation is ensuring that our products are robust and will function flawlessly for years.",
+                  "image": null,
+                  "title": "Unique watches - today and for generations to come ",
+                  "section": {
+                    "mgnl:type": "mgnl:area",
+                    "components": [
+                      {
+                        "text": "<p>At the core of our philosophy lies a genuine commitment to sustainability, ethics, and craftsmanship. We believe in producing high-quality products that stand the test of time, both in terms of durability and timeless beauty. Our goal is to leave a positive impact on the world while bringing joy to those who cherish our creations.</p>\n\n<p>By prioritizing long-term responsibility, we strive to create a legacy that resonates with our stakeholders and showcases the true essence of our craftsmanship. Our dedication to producing exceptional watches remains steadfast today and will endure for years to come.</p>\n",
+                        "image": "saas:bee122ef-b8a9-4781-9ebe-82d3743924d6",
+                        "title": "Sustainability, ethics, and craftsmanship",
+                        "ctaTitle": null,
+                        "pageLink": null,
+                        "supTitle": null,
+                        "imageLeft": true,
+                        "mgnl:type": "mgnl:component",
+                        "mgnl:template": "saas-demo:components/TextImage"
+                      },
+                      {
+                        "col1": {
+                          "mgnl:type": "mgnl:area",
+                          "components": [
+                            {
+                              "text": "<p>Repairability goes into the design of our watches. We ensure that as far as possible your neighborhood watch shop can fix the problem. Otherwise send your watch to us and our professionals will have it fixed in no time.</p>\n",
+                              "image": "saas:b98b763b-bbcc-4679-bad0-f9387c96a406",
+                              "title": "Repairable",
+                              "supTitle": "It's your watch",
+                              "mgnl:type": "mgnl:component",
+                              "mgnl:template": "saas-demo:components/Card",
+                              "transparentBg": false
+                            }
+                          ]
+                        },
+                        "col2": {
+                          "mgnl:type": "mgnl:area",
+                          "components": [
+                            {
+                              "text": "<p>We put care into sourcing our materials. Depending on the brand, up to 80% recycled material is used in the product. Recently we put focus on finding materials partners to build up an ongoing and lasting supply of recycled resources.</p>\n",
+                              "image": "saas:97c4e27e-9114-4b6d-be79-be7345f76acc",
+                              "title": "Built with recycled and natural materials",
+                              "supTitle": "Circular economy",
+                              "mgnl:type": "mgnl:component",
+                              "mgnl:template": "saas-demo:components/Card",
+                              "transparentBg": false
+                            }
+                          ]
+                        },
+                        "col3": {
+                          "mgnl:type": "mgnl:area",
+                          "components": [
+                            {
+                              "text": "<p>Magnetic Group including all the brands has been certified as carbon neutral in 2021. We are committed to maintaining this achievement.</p>\n\n<p>While we do leverage Gold Standard carbon offsets to acheive this, we are striving to reduce our emmissions where possible and are on track to cover all power needs via on-site solar which should be completed in 2023.</p>\n",
+                              "image": "saas:320199e8-f1eb-4241-aff3-cf88c79a1e61",
+                              "title": "Carbon Neutral",
+                              "supTitle": "Doing our part, and encouraging others",
+                              "mgnl:type": "mgnl:component",
+                              "mgnl:template": "saas-demo:components/Card",
+                              "transparentBg": false
+                            }
+                          ]
+                        },
+                        "col4": {
+                          "mgnl:type": "mgnl:area",
+                          "components": {}
+                        },
+                        "showCol1": true,
+                        "showCol2": true,
+                        "showCol3": true,
+                        "showCol4": false,
+                        "mgnl:type": "mgnl:component",
+                        "mgnl:template": "saas-demo:components/Columns"
+                      }
+                    ]
+                  },
+                  "gradient": true,
+                  "supTitle": null,
+                  "fullWidth": false,
+                  "mgnl:type": "mgnl:component",
+                  "mgnl:template": "saas-demo:components/Section"
+                },
+                {
+                  "text": null,
+                  "image": "saas:a85ee68d-8c65-40f3-90ab-6463b4c7b7a6",
+                  "title": "On-site solar farm willl cover all Magnetic power needs.",
+                  "section": {
+                    "mgnl:type": "mgnl:area",
+                    "components": []
+                  },
+                  "gradient": true,
+                  "supTitle": "Online in Q4 2023",
+                  "fullWidth": false,
+                  "mgnl:type": "mgnl:component",
+                  "mgnl:template": "saas-demo:components/Section"
+                }
+              ]
+            },
+            "name": "sustainability",
+            "title": "Sustainability",
+            "mgnl:type": "mgnl:page",
+            "mgnl:template": "saas-demo:pages/Basic"
+          },
+          "@nodes": []
+        },
+        {
+          "@metadata": {
             "name": "brands",
+            "uuid": "15c08f8f-6681-414a-8174-f3302d1a6590",
             "path": null
           },
           "@content": {
@@ -709,170 +631,13 @@
             "mgnl:template": "saas-demo:pages/Basic"
           },
           "@nodes": []
-        },
-        {
-          "@metadata": {
-            "name": "partner",
-            "path": null
-          },
-          "@content": {
-            "main": {
-              "mgnl:type": "mgnl:area",
-              "components": [
-                {
-                  "text": "Tell us something about you and what you're looking for.",
-                  "image": "saas:808d462f-23f6-404d-ac6a-5464d69f3af1",
-                  "title": "Become our partner",
-                  "section": {
-                    "mgnl:type": "mgnl:area",
-                    "components": [
-                      {
-                        "title": "Apply to become a Retail Partner",
-                        "mgnl:type": "mgnl:component",
-                        "buttonText": "Apply",
-                        "mgnl:template": "saas-demo:components/ContactForm"
-                      },
-                      {
-                        "title": "Interested in joining the group?",
-                        "mgnl:type": "mgnl:component",
-                        "buttonText": "Tell me about joining",
-                        "mgnl:template": "saas-demo:components/ContactForm"
-                      }
-                    ]
-                  },
-                  "gradient": true,
-                  "supTitle": "Be part of the fam",
-                  "fullWidth": false,
-                  "mgnl:type": "mgnl:component",
-                  "mgnl:template": "saas-demo:components/Section"
-                }
-              ]
-            },
-            "name": "partner",
-            "title": "Partner",
-            "mgnl:type": "mgnl:page",
-            "description": "",
-            "mgnl:template": "saas-demo:pages/Basic"
-          },
-          "@nodes": []
-        },
-        {
-          "@metadata": {
-            "name": "sustainability",
-            "path": null
-          },
-          "@content": {
-            "main": {
-              "mgnl:type": "mgnl:area",
-              "components": [
-                {
-                  "text": "Unique watches cannot mean fast fashion. Magnetic Group is fully dedicated to sustainable practices across the environment and society as a whole. A foundation is ensuring that our products are robust and will function flawlessly for years.",
-                  "image": null,
-                  "title": "Unique watches - today and for generations to come ",
-                  "section": {
-                    "mgnl:type": "mgnl:area",
-                    "components": [
-                      {
-                        "text": "<p>At the core of our philosophy lies a genuine commitment to sustainability, ethics, and craftsmanship. We believe in producing high-quality products that stand the test of time, both in terms of durability and timeless beauty. Our goal is to leave a positive impact on the world while bringing joy to those who cherish our creations.</p>\n\n<p>By prioritizing long-term responsibility, we strive to create a legacy that resonates with our stakeholders and showcases the true essence of our craftsmanship. Our dedication to producing exceptional watches remains steadfast today and will endure for years to come.</p>\n",
-                        "image": "saas:bee122ef-b8a9-4781-9ebe-82d3743924d6",
-                        "title": "Sustainability, ethics, and craftsmanship",
-                        "ctaTitle": null,
-                        "pageLink": null,
-                        "supTitle": null,
-                        "imageLeft": true,
-                        "mgnl:type": "mgnl:component",
-                        "mgnl:template": "saas-demo:components/TextImage"
-                      },
-                      {
-                        "col1": {
-                          "mgnl:type": "mgnl:area",
-                          "components": [
-                            {
-                              "text": "<p>Repairability goes into the design of our watches. We ensure that as far as possible your neighborhood watch shop can fix the problem. Otherwise send your watch to us and our professionals will have it fixed in no time.</p>\n",
-                              "image": "saas:b98b763b-bbcc-4679-bad0-f9387c96a406",
-                              "title": "Repairable",
-                              "supTitle": "It's your watch",
-                              "mgnl:type": "mgnl:component",
-                              "mgnl:template": "saas-demo:components/Card",
-                              "transparentBg": false
-                            }
-                          ]
-                        },
-                        "col2": {
-                          "mgnl:type": "mgnl:area",
-                          "components": [
-                            {
-                              "text": "<p>We put care into sourcing our materials. Depending on the brand, up to 80% recycled material is used in the product. Recently we put focus on finding materials partners to build up an ongoing and lasting supply of recycled resources.</p>\n",
-                              "image": "saas:97c4e27e-9114-4b6d-be79-be7345f76acc",
-                              "title": "Built with recycled and natural materials",
-                              "supTitle": "Circular economy",
-                              "mgnl:type": "mgnl:component",
-                              "mgnl:template": "saas-demo:components/Card",
-                              "transparentBg": false
-                            }
-                          ]
-                        },
-                        "col3": {
-                          "mgnl:type": "mgnl:area",
-                          "components": [
-                            {
-                              "text": "<p>Magnetic Group including all the brands has been certified as carbon neutral in 2021. We are committed to maintaining this achievement.</p>\n\n<p>While we do leverage Gold Standard carbon offsets to acheive this, we are striving to reduce our emmissions where possible and are on track to cover all power needs via on-site solar which should be completed in 2023.</p>\n",
-                              "image": "saas:320199e8-f1eb-4241-aff3-cf88c79a1e61",
-                              "title": "Carbon Neutral",
-                              "supTitle": "Doing our part, and encouraging others",
-                              "mgnl:type": "mgnl:component",
-                              "mgnl:template": "saas-demo:components/Card",
-                              "transparentBg": false
-                            }
-                          ]
-                        },
-                        "col4": {
-                          "mgnl:type": "mgnl:area",
-                          "components": {}
-                        },
-                        "showCol1": true,
-                        "showCol2": true,
-                        "showCol3": true,
-                        "showCol4": false,
-                        "mgnl:type": "mgnl:component",
-                        "mgnl:template": "saas-demo:components/Columns"
-                      }
-                    ]
-                  },
-                  "gradient": true,
-                  "supTitle": null,
-                  "fullWidth": false,
-                  "mgnl:type": "mgnl:component",
-                  "mgnl:template": "saas-demo:components/Section"
-                },
-                {
-                  "text": null,
-                  "image": "saas:a85ee68d-8c65-40f3-90ab-6463b4c7b7a6",
-                  "title": "On-site solar farm willl cover all Magnetic power needs.",
-                  "section": {
-                    "mgnl:type": "mgnl:area",
-                    "components": []
-                  },
-                  "gradient": true,
-                  "supTitle": "Online in Q4 2023",
-                  "fullWidth": false,
-                  "mgnl:type": "mgnl:component",
-                  "mgnl:template": "saas-demo:components/Section"
-                }
-              ]
-            },
-            "name": "sustainability",
-            "title": "Sustainability",
-            "mgnl:type": "mgnl:page",
-            "mgnl:template": "saas-demo:pages/Basic"
-          },
-          "@nodes": []
         }
       ]
     },
     {
       "@metadata": {
         "name": "rethink",
+        "uuid": "2e625026-332f-4d76-993f-6e9cfb5e89c3",
         "path": null
       },
       "@content": {
@@ -977,7 +742,56 @@
       "@nodes": [
         {
           "@metadata": {
+            "name": "Earth-Day",
+            "uuid": "e3d07e3e-01ef-484e-be93-5d952bf42718",
+            "path": null
+          },
+          "@content": {
+            "main": {
+              "mgnl:type": "mgnl:area",
+              "components": [
+                {
+                  "text": null,
+                  "image": null,
+                  "title": "Join the Revolution",
+                  "section": {
+                    "mgnl:type": "mgnl:area",
+                    "components": {}
+                  },
+                  "gradient": true,
+                  "supTitle": "Earth Day festivals and demonstrations",
+                  "fullWidth": false,
+                  "mgnl:type": "mgnl:component",
+                  "mgnl:template": "saas-demo:components/Section"
+                },
+                {
+                  "text": null,
+                  "image": null,
+                  "title": "Earth Day Discount - 50% Off",
+                  "section": {
+                    "mgnl:type": "mgnl:area",
+                    "components": {}
+                  },
+                  "gradient": true,
+                  "supTitle": "50% On all watches. One day only.",
+                  "fullWidth": false,
+                  "mgnl:type": "mgnl:component",
+                  "mgnl:template": "saas-demo:components/Section"
+                }
+              ]
+            },
+            "name": "Earth Day",
+            "title": "Celebrate Earth Day",
+            "mgnl:type": "mgnl:page",
+            "description": "<p>Join us and our partners on the streets - lets make the world notice with the biggest Earth Day ever.</p>\n",
+            "mgnl:template": "saas-demo:pages/Basic"
+          },
+          "@nodes": []
+        },
+        {
+          "@metadata": {
             "name": "about",
+            "uuid": "3c5f5c33-34bc-4e33-8a08-9924770530a3",
             "path": null
           },
           "@content": {
@@ -1041,10 +855,122 @@
             "mgnl:template": "saas-demo:pages/Basic"
           },
           "@nodes": []
+        }
+      ]
+    },
+    {
+      "@metadata": {
+        "name": "franklin",
+        "uuid": "dd469e0c-2f6f-441d-a5ee-c78a8e3cee8d",
+        "path": null
+      },
+      "@content": {
+        "main": {
+          "mgnl:type": "mgnl:area",
+          "components": [
+            {
+              "text": null,
+              "image": "saas:d8057eba-a6fa-473f-885f-055b0fd75784",
+              "title": null,
+              "section": {
+                "mgnl:type": "mgnl:area",
+                "components": [
+                  {
+                    "text": "<p>The Franklin Clockworks appeal lies in its fusion of past and future, where Victorian-era elegance meets mechanical innovation. The intricate gears, cogs, and brass accents transport us to a bygone era, evoking a sense of nostalgia and craftsmanship.</p>\n\n<p>The juxtaposition of retro styling with futuristic elements creates a visually striking and thought-provoking experience.</p>\n\n<p>&nbsp;</p>\n",
+                    "image": "saas:2177025c-170c-472f-9c13-bf09c17b0709",
+                    "title": "Relic",
+                    "webLink": null,
+                    "ctaTitle": null,
+                    "pageLink": null,
+                    "supTitle": null,
+                    "imageLeft": false,
+                    "mgnl:type": "mgnl:component",
+                    "mgnl:template": "saas-demo:components/TextImage"
+                  },
+                  {
+                    "text": "<p>The past is here.</p>\n\n<p>Like no other.</p>\n",
+                    "image": "saas:7cb53af8-c431-4cb0-86ff-77f8d2d41e47",
+                    "title": "Introducing Boilerroom",
+                    "webLink": null,
+                    "ctaTitle": "Experience it now",
+                    "pageLink": "ee74d9e8-5f9b-42f9-aa5a-bc866febd0a6",
+                    "supTitle": null,
+                    "imageLeft": false,
+                    "mgnl:type": "mgnl:component",
+                    "mgnl:template": "saas-demo:components/TextImage"
+                  }
+                ]
+              },
+              "gradient": true,
+              "supTitle": "Vintage Aesthetics, Futuristic Precision.",
+              "fullWidth": false,
+              "mgnl:type": "mgnl:component",
+              "mgnl:template": "saas-demo:components/Section"
+            },
+            {
+              "text": null,
+              "image": null,
+              "title": "Other Franklin Timepieces",
+              "section": {
+                "mgnl:type": "mgnl:area",
+                "components": [
+                  {
+                    "title": null,
+                    "mgnl:type": "mgnl:component",
+                    "watchLink": "c358ca8a-9972-4636-8282-6f0a14751e93",
+                    "mgnl:template": "saas-demo:components/Watch",
+                    "transparentBg": false
+                  },
+                  {
+                    "text": "",
+                    "image": "saas:01912d8a-fd5a-4e52-99d1-7740f8c8e940",
+                    "title": "Brassheart Detail",
+                    "supTitle": null,
+                    "mgnl:type": "mgnl:component",
+                    "mgnl:template": "saas-demo:components/Card",
+                    "transparentBg": false
+                  },
+                  {
+                    "title": null,
+                    "mgnl:type": "mgnl:component",
+                    "watchLink": "a8890c42-634e-4805-80a0-4fa95dc95aaa",
+                    "mgnl:template": "saas-demo:components/Watch",
+                    "transparentBg": false
+                  }
+                ]
+              },
+              "gradient": true,
+              "supTitle": null,
+              "fullWidth": false,
+              "mgnl:type": "mgnl:component",
+              "mgnl:template": "saas-demo:components/Section"
+            }
+          ]
         },
+        "name": "franklin",
+        "title": "Franklin Clockworks",
+        "header": {
+          "logo": "saas:26344c3b-636b-4f7c-a6c7-cc3749c0056e",
+          "image": "saas:695f57c6-f898-42eb-8faa-d472e19ecd5f",
+          "pageLink": "3ed1b044-cb88-4b46-a97a-8abe936e779c",
+          "mgnl:type": "mgnl:area",
+          "components": [
+            {
+              "label": "About Franklin",
+              "pageLink": "baab9b1b-300a-420b-abbb-021bddd21096",
+              "mgnl:type": "mgnl:component",
+              "mgnl:template": "saas-demo:components/Link"
+            }
+          ]
+        },
+        "mgnl:type": "mgnl:page",
+        "mgnl:template": "saas-demo:pages/Home"
+      },
+      "@nodes": [
         {
           "@metadata": {
-            "name": "Earth-Day",
+            "name": "Introducing-Boilerroom",
+            "uuid": "ee74d9e8-5f9b-42f9-aa5a-bc866febd0a6",
             "path": null
           },
           "@content": {
@@ -1054,37 +980,120 @@
                 {
                   "text": null,
                   "image": null,
-                  "title": "Join the Revolution",
+                  "title": "Real time. Real steam.",
                   "section": {
                     "mgnl:type": "mgnl:area",
-                    "components": {}
+                    "components": [
+                      {
+                        "title": null,
+                        "mgnl:type": "mgnl:component",
+                        "watchLink": "fd7212cb-6756-4144-a840-7f697be2e4e5",
+                        "mgnl:template": "saas-demo:components/Watch",
+                        "transparentBg": false
+                      },
+                      {
+                        "text": "<p>Introducing the revolutionary &quot;Boilerroom&quot;.</p>\n\n<p>Inspired by the industrial age and powered by cutting-edge technology, this extraordinary watch defies the conventional norms of timekeeping. Embodying an innovative fusion of artistry and engineering, the BoilerRoom features a mesmerizing display that tells the hour with steam.</p>\n\n<p>Within its sleek, steampunk-inspired design lies a miniature boiler system that produces precisely calibrated puffs of steam to indicate the current hour. As the steam swirls and dissipates, the elegantly etched numerals emerge.</p>\n\n<p>The BoilerRoom watch not only embodies a symbol of sophistication but also pays homage to the age-old traditions of craftsmanship and ingenuity. With this exceptional timepiece adorning your wrist, you&#39;ll embrace a new era of horology that blends the allure of the past with the innovation of the future.</p>\n\n<p>Welcome to the avant-garde world of the Boilerroom watch, where timekeeping meets artistic expression like never before.</p>\n",
+                        "image": null,
+                        "title": null,
+                        "webLink": null,
+                        "ctaTitle": null,
+                        "pageLink": null,
+                        "supTitle": null,
+                        "imageLeft": false,
+                        "mgnl:type": "mgnl:component",
+                        "mgnl:template": "saas-demo:components/TextImage"
+                      }
+                    ]
                   },
                   "gradient": true,
-                  "supTitle": "Earth Day festivals and demonstrations",
-                  "fullWidth": false,
-                  "mgnl:type": "mgnl:component",
-                  "mgnl:template": "saas-demo:components/Section"
-                },
-                {
-                  "text": null,
-                  "image": null,
-                  "title": "Earth Day Discount - 50% Off",
-                  "section": {
-                    "mgnl:type": "mgnl:area",
-                    "components": {}
-                  },
-                  "gradient": true,
-                  "supTitle": "50% On all watches. One day only.",
+                  "supTitle": "The first timepiece to tell the time with steam.",
                   "fullWidth": false,
                   "mgnl:type": "mgnl:component",
                   "mgnl:template": "saas-demo:components/Section"
                 }
               ]
             },
-            "name": "Earth Day",
-            "title": "Celebrate Earth Day",
+            "name": "Introducing Boilerroom",
+            "title": "Introducing Boilerroom",
             "mgnl:type": "mgnl:page",
-            "description": "<p>Join us and our partners on the streets - lets make the world notice with the biggest Earth Day ever.</p>\n",
+            "description": "<p>The newest addition to the Franklin Clockworks line.</p>\n",
+            "mgnl:template": "saas-demo:pages/Basic"
+          },
+          "@nodes": []
+        },
+        {
+          "@metadata": {
+            "name": "about",
+            "uuid": "baab9b1b-300a-420b-abbb-021bddd21096",
+            "path": null
+          },
+          "@content": {
+            "main": {
+              "mgnl:type": "mgnl:area",
+              "components": [
+                {
+                  "text": "Creating unique timepieces is our passion. Our purpose also expresses this. Together with our vision and values, it guides our actions – today and in the future.",
+                  "image": null,
+                  "title": "Timeless",
+                  "section": {
+                    "mgnl:type": "mgnl:area",
+                    "components": [
+                      {
+                        "text": "<p style=\"margin-left:0; margin-right:0\">We&#39;ve always been committed to taking responsibility for the long term, and it&#39;s something we&#39;re truly proud of. Our purpose reflects this dedication. It embodies our deep passion for crafting exquisite timepieces and specialty items that honor both nature and people.</p>\n\n<p style=\"margin-left:0; margin-right:0\">This purpose serves as a compass, guiding our every action and shaping the way we grow our business, nurture our brands, and curate our collection with unwavering integrity. By doing so, we not only create value for everyone involved but also ensure that our unique watches will continue to captivate future generations.</p>\n",
+                        "image": "saas:be9f59a7-e805-4b7b-96b0-134b0ff2ec37",
+                        "title": "Our purpose",
+                        "ctaTitle": null,
+                        "pageLink": null,
+                        "supTitle": null,
+                        "imageLeft": false,
+                        "mgnl:type": "mgnl:component",
+                        "mgnl:template": "saas-demo:components/TextImage"
+                      },
+                      {
+                        "text": "<p>Our watches reflect the spirit of adventure and exploration. Inspired by the boundless beauty of the ocean, our designs evoke a sense of sophistication and luxury. The fluid lines, exquisite dials, and meticulously chosen elements blend seamlessly to create timepieces that are as aesthetically pleasing as they are functional.</p>\n",
+                        "image": null,
+                        "title": "Our unique culture",
+                        "ctaTitle": null,
+                        "pageLink": null,
+                        "supTitle": null,
+                        "imageLeft": false,
+                        "mgnl:type": "mgnl:component",
+                        "mgnl:template": "saas-demo:components/TextImage"
+                      },
+                      {
+                        "text": "<p>Our vision at Magnetic is to revolutionize timekeeping with unparalleled and distinctive watches, captivating the world with our innovative designs and unparalleled craftsmanship. We strive to be the epitome of uniqueness, redefining what it means to wear a watch that reflects individuality and style.</p>\n",
+                        "image": "saas:f0bc4bab-9704-4e37-8708-9f0e481fcfa6",
+                        "title": "Our vision",
+                        "ctaTitle": null,
+                        "pageLink": null,
+                        "supTitle": null,
+                        "imageLeft": true,
+                        "mgnl:type": "mgnl:component",
+                        "mgnl:template": "saas-demo:components/TextImage"
+                      },
+                      {
+                        "text": "<p>In 2014 Vanessa Kosters&nbsp; and Dietmar Schreiner met at the Baselworld watch tradefair and conference in Basel. At the time, each of them was having some success with their small boutique businesses, Rethink and Brassheart, but were struggling to manage the marketing and distribution aspects.</p>\n\n<p>The two hit it off and the kernel of an idea was formed. Could a group of small but promising watch companies join forces to challenge the entrenched leaders?</p>\n\n<p>In 2016 they founded the Magnetic Group. The group now comprises 9 unique brands.</p>\n",
+                        "image": null,
+                        "title": "The Magnetic Group",
+                        "supTitle": "Our story",
+                        "mgnl:type": "mgnl:component",
+                        "mgnl:template": "saas-demo:components/Card",
+                        "transparentBg": false
+                      }
+                    ]
+                  },
+                  "gradient": true,
+                  "supTitle": null,
+                  "fullWidth": false,
+                  "mgnl:type": "mgnl:component",
+                  "mgnl:template": "saas-demo:components/Section"
+                }
+              ]
+            },
+            "name": "about",
+            "title": "About Franklin Clockworks",
+            "mgnl:type": "mgnl:page",
+            "description": "",
             "mgnl:template": "saas-demo:pages/Basic"
           },
           "@nodes": []
