@@ -11,7 +11,7 @@
     {
       "@metadata": {
         "name": "franklin",
-	    "path": null
+	    "path": "/franklin"
       },
       "@content": {
         "main": {
@@ -119,7 +119,7 @@
         {
           "@metadata": {
             "name": "about",
-            "path": null
+            "path": "/franklin/about"
           },
           "@content": {
             "main": {
@@ -195,7 +195,7 @@
         {
           "@metadata": {
             "name": "Introducing-Boilerroom",
-            "path": null
+            "path": "/franklin/Introducing-Boilerroom"
           },
           "@content": {
             "main": {
